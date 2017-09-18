@@ -13,7 +13,7 @@ __Install via apm__
 > $ apm install html-uglifier
 
 __Install via atom GUI__
-* Go to Settings (Mac: cmd + , Linux/Windows: ctrl + ,)
+* Go to Settings (Mac: "cmd + ," or Linux/Windows: "ctrl + ,")
 * Click "Install" tab
 * Search for "html-uglifier"
 * Click "Install" button
