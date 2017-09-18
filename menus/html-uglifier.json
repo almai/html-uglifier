@@ -1,0 +1,39 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "HTML Uglifier",
+        "submenu": [
+          {
+            "label": "Uglify Selection",
+            "command": "html-uglifier:uglifySelection"
+          },
+          {
+            "label": "Uglify All",
+            "command": "html-uglifier:uglifyAll"
+          }
+        ]
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "HTML Uglifier",
+          "submenu": [
+            {
+              "label": "Uglify Selection",
+              "command": "html-uglifier:uglifySelection"
+            },
+            {
+              "label": "Uglify All",
+              "command": "html-uglifier:uglifyAll"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

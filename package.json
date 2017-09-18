@@ -1,0 +1,21 @@
+{
+  "name": "html-uglifier",
+  "main": "./lib/html-uglifier",
+  "version": "0.0.0",
+  "description": "Removes excessive whitespace from your HTML text for minification purpose",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": [
+      "html-uglifier:uglifyAll",
+      "html-uglifier:uglifySelection"
+    ]
+  },
+  "repository": "https://github.com/atom/html-uglifier",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
