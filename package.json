@@ -1,7 +1,7 @@
 {
   "name": "html-uglifier",
   "main": "./lib/html-uglifier",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Removes excessive whitespace from your HTML text for minification purpose",
   "keywords": [],
   "activationCommands": {
